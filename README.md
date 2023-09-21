@@ -1,6 +1,6 @@
 # rail-segmentation-bisenetV2.5
 bisenetV2 plus on railsem 19
-This project comes from the rail-marking, thanks to @xmla15.
+This project comes from the rail_marking, thanks to @xlmba15.
 
 Based on the bisenet he gave, he modified it with a few minor changes and corrections. It ensures that the project can be trained and run smoothly, and some new modules are added to improve the speed of operation (although it does not seem to have done so...).
 
